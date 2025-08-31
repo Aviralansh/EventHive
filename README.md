@@ -4,7 +4,8 @@ EventHive is a modern event management platform built with Next.js and FastAPI, 
 
 ## Demo
 
-![Demo Video](vid/EventHive.mp4)
+[![Watch the video](vid/ss.png)](vid/EventHive.mp4)
+
 
 
 ## Features
